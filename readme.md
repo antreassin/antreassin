@@ -12,7 +12,6 @@ products.
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>What I Work With</h3>
 <b>Programming Languages</b>
 <ul>
 <li>C/C++, Python </li>

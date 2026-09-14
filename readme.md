@@ -1,0 +1,40 @@
+
+Computer Science graduate currently pursuing an MSc in Computer Science at DTU. Strong background in C/C++,
+Python, Linux, and systems-level software development, with hands-on experience in LLVM compiler development and
+ARM SVE. Interested in embedded software, hardware-software interaction, and building reliable software for real-world
+products.
+
+
+  <img src="https://gr.pinterest.com/pin/415879346837531736/" width="250px">
+  
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>What I Work With</h3>
+<b>Programming Languages</b>
+<ul>
+<li>C/C++, Python </li>
+<li>Bash/Shell,, OCaml<li>
+<li>Java, Javascript </li>
+<li>SQL, HTML/CSS </li>
+</ul>
+<b>Tech & Tools</b>
+<ul>
+<li>Git, CMake</li>
+<li>LLVM, Clang<li>
+<li>Maven, Node.js </li>
+<li>Pandas, NumPy </li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
+
+### Reach Me
+
+**Email:** [antreassin16@gmail.com](mailto:antreassin16@gmail.com) 
+
+**LinkedIn:** [linkedin.com/in/antreas-sinanis](https://www.linkedin.com/in/antreas-sinanis-94623631a/) 

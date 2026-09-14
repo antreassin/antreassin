@@ -5,7 +5,7 @@ ARM SVE. Interested in embedded software, hardware-software interaction, and bui
 products.
 
 
-  <img src="https://tenor.com/en-GB/view/lain-experiments-gif-202687086491934216" width="250px">
+  <img src="https://tenor.com/en-GB/view/lain-experiments-gif-202687086491934216.gif" width="250px">
   
 ---
 

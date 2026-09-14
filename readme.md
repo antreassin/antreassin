@@ -1,7 +1,7 @@
-
-Computer Science graduate currently pursuing an MSc in Computer Science at DTU. Strong background in C/C++,
+### Hello, Im Andreas Sinanis👋
+Im a Computer Science graduate currently pursuing an MSc in Computer Science at DTU. I have strong background in C/C++,
 Python, Linux, and systems-level software development, with hands-on experience in LLVM compiler development and
-ARM SVE. Interested in embedded software, hardware-software interaction, and building reliable software for real-world
+ARM SVE. I am interested in embedded software, hardware-software interaction, and building reliable software for real-world
 products.
 
 
@@ -16,7 +16,7 @@ products.
 <b>Programming Languages</b>
 <ul>
 <li>C/C++, Python </li>
-<li>Bash/Shell,, OCaml<li>
+<li>Bash/Shell, OCaml<li>
 <li>Java, Javascript </li>
 <li>SQL, HTML/CSS </li>
 </ul>

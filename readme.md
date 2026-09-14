@@ -12,20 +12,20 @@ products.
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<h3>Technical Skills</h3>
 <b>Programming Languages</b>
 <ul>
-<li>C/C++, Python </li>
-<li>Bash/Shell, OCaml<li>
-<li>Java, Javascript </li>
-<li>SQL, HTML/CSS </li>
+<li>C/C++, Python
+<li>Bash/Shell,, OCaml
+<li>Java, Javascript
+<li>SQL, HTML/CSS
 </ul>
-<b>Tech & Tools</b>
+<b>Tools & Frameworks</b>
 <ul>
-<li>Git, CMake</li>
-<li>LLVM, Clang<li>
-<li>Maven, Node.js </li>
-<li>Pandas, NumPy </li>
-</ul>
+<li>Git, CMake
+<li>LLVM, Clang
+<li>Maven, Node.js
+<li>Pandas, NumPy
 </td>
 </tr>
 </table>

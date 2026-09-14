@@ -32,7 +32,6 @@ products.
 
 ---
 
-### Reach Me
 
 **Email:** [antreassin16@gmail.com](mailto:antreassin16@gmail.com) 
 
